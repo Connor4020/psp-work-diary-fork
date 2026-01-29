@@ -1,7 +1,5 @@
-# Professional Software Projects GitHub Diary Guidance
+# Professional Software Projects Diary - NHS Pathfinding
 
-This repo contains
-
-- a guide to using GitHub for diary submissions.
-- a sample readme.md file page to create.
-- suggested weekly themes and structure for your diary.
+## Student Number: 34020250
+## Student Name: Connor Barton
+## Team Name: Group 4 (NHS Wayfinder Website)

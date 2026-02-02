@@ -10,7 +10,7 @@ https://github.com/users/Connor4020/projects/4
 I asked some questions during the interview with our client and this is my understanding of their needs so far in the form of a MoSCoW analysis:
 
 Must Have: 
-- A pathfinding algorithm that gets a user from one point to another in a fast manner.
+- A pathfinding algorithm that gets a user from one point to another in a fast manner (probably a breadth-first algorithm based on CS-students' advice)
 - Must include routes for people in wheelchairs.
 - A visual representation of the path in some form.
 - Must be built as a web app.

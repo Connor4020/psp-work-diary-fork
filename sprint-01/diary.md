@@ -9,3 +9,7 @@ Day 2:
 - Had trouble implementing the db into the code due to database changes.
 - We all had like a 30 minute talk with Martin about what the best way to go about searching for a route.
 - Me and Josh revised the db a little more after we all came to an agreement.
+
+Day 3:
+- Moved graph to another file so that it can be built dynamically in the future.
+- Cleaned up bfs files a little to remove stuff that's unnecessary.

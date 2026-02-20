@@ -13,3 +13,6 @@ Day 2:
 Day 3:
 - Moved graph to another file so that it can be built dynamically in the future.
 - Cleaned up bfs files a little to remove stuff that's unnecessary.
+
+Day 4:
+- The bfs algorithm now takes from the database. 

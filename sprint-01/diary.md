@@ -16,3 +16,8 @@ Day 3:
 
 Day 4:
 - The bfs algorithm now takes from the database. 
+
+Day 5:
+(I'm aware I'm doing this late but I completely forgot).
+- I cleaned up the main pages that we'd present during the meeting (css styling).
+- I did all the presenting for the meeting - it went really well, she was happy with the product so far and I informed her of how it worked on a layman-level.

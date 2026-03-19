@@ -1,0 +1,1 @@
+- Hosted the website on versel-a git-based web hosting website so that presentation is cleaner and more professional.

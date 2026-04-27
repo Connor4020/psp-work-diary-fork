@@ -5,3 +5,5 @@ Day 2: Completed about page and contact pages. Helped with hosting. Compared our
 Day 3: CSS and wording changes for about and contact pages. Created a 'show password' button for logging in.
 
 Day 4: Created presentation plan for client meeting. Tested SQL queries in login page to try and find vulnrabilityes.
+
+Day 5: Did test presenetation. Cleaned up last bits. Presented the entire thing; answered queries from client, gave feedback/info, etc.
